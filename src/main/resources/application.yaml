@@ -1,0 +1,7 @@
+#port
+spring:
+  application:
+    name: demo
+server:
+  port: 8081
+  context-path: /demo
